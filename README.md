@@ -38,4 +38,4 @@ One of my current projects, **OpenScreenTime**, explores what that can look like
 
 ### 📫 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/justinscoville/)
