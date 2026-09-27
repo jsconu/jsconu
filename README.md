@@ -12,7 +12,7 @@ My current work focuses on a practical question:
 
 | Project | What it demonstrates |
 | --- | --- |
-| **[Nopmo](https://github.com/jsconu/pmo-agents-site)** | AI-native program intelligence: project signals → evidence-backed judgment → recommendations → bounded, reviewable action |
+| **[Nopmo](https://github.com/jsconu/Nopmo-Overview)** | AI-native program intelligence: project signals → evidence-backed judgment → recommendations → bounded, reviewable action |
 | **[Project Risk Agent](https://github.com/jsconu/project-risk-agent)** | Open-source risk intelligence with evidence provenance, longitudinal state, Jira/Slack ingestion, evaluations, desktop releases, and deterministic/model-backed reasoning |
 | **[OpenScreenTime](https://github.com/jsconu/OpenScreenTime)** | Open-source digital-wellbeing platform for families across Android/iOS, designed around intentional technology use rather than engagement |
 
