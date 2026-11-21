@@ -12,6 +12,7 @@ My background spans enterprise SaaS, M&A integration, customer experience, and o
 
 | Project | Problem and approach | Explore |
 | --- | --- | --- |
+| **PMO Skills** | 25 free AI skills for project managers and PMO leaders, organised by the moment you need them: debrief a meeting, check a status report before it goes to a sponsor, trace what a slip really affects, combine status reports into a portfolio report, and follow steering decisions through to outcomes. Works from whatever you paste in. | [Skills & downloads](https://github.com/jsconu/pmo-skills) · [Try one in five minutes](https://github.com/jsconu/pmo-skills#try-one-in-five-minutes-no-install) |
 | **Ondatrace** | Shared project memory for PMOs: connect evidence across tools, surface conflicting signals and cross-project consequences, and follow decisions through to outcomes. | [Product & architecture case study](https://github.com/jsconu/Ondatrace-Overview) · [Interactive demo](https://ondatrace.com/try/) |
 | **OpenScreenTime** | Family screen-time tools with calm status indicators, deliberate pauses, and visible parental modeling. Android beta; iOS parent app is an early foundation. | [Source, UI previews & setup](https://github.com/jsconu/OpenScreenTime) |
 | **Aldenhold** | An original browser strategy game inspired by *Sword of Aragon* and *Civilization*: city economies, exploration, diplomacy, and tactical battles. Playable locally; in active development. | [Source & play instructions](https://github.com/jsconu/aldenhold) |
@@ -36,4 +37,4 @@ My focus is the judgment around implementation: what the system should do, where
 
 ## Connect
 
-[ondatrace.com](https://ondatrace.com) · [ondatrace@ondatrace.com](mailto:ondatrace@ondatrace.com)
+[ondatrace.com](https://ondatrace.com) · [PMO Skills](https://github.com/jsconu/pmo-skills) · [ondatrace@ondatrace.com](mailto:ondatrace@ondatrace.com)
