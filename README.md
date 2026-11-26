@@ -2,6 +2,8 @@
 
 **Program & portfolio leadership · AI product development · Founder of [Ondatrace](https://ondatrace.com)**
 
+> **Get practical AI tips for project managers.** Skills, agents and workflows I actually use to run projects with AI, sent to your inbox. [Join the free email list](https://ondatrace.kit.com/pmo-skills)
+
 I lead enterprise programs and build tools around the problems I encounter in delivery: fragmented information, competing priorities, and decisions that lose their context.
 
 My background spans enterprise SaaS, M&A integration, customer experience, and operations. I've led acquisition integration programs focused on customer retention and customer self-service improvements that reduced sign-up lead time. I bring that experience to product definition, prioritization, and evaluating whether a solution works in practice.
